@@ -1,4 +1,4 @@
-Μάθημα 1ο
+Μάθημα 1ο: 
 Εισαγωγή στην Python
 - Variables (naming, assigning)
 - Integers
