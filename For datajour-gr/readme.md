@@ -1,6 +1,6 @@
 Μάθημα 1ο
 Εισαγωγή στην Python
-- Μεταβλητές (ονόματα, τύποι δεδομένων)
+- Variables (naming, assigning)
 - Integers
 - Floats
 - Stings
