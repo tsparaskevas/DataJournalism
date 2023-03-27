@@ -1,5 +1,6 @@
 Μάθημα 1ο: 
 Εισαγωγή στην Python
+- Why Python
 - Variables (naming, assigning)
 - Integers
 - Floats
