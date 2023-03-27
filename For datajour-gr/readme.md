@@ -10,4 +10,4 @@
 - Mathematical operators
 - Comparison operators
 - Functions and Methods
-- Lists Methods
+- Lists methods
