@@ -2,7 +2,3 @@
 - for loop
 - range()
 - if statement
-
-
-
-
